@@ -40,19 +40,3 @@
 <br/>
 
 
-### Spotify Playing 🎧
-<details>
-  <summary>:zap: Github Stats</summary>
-<!--   ![Lav's github stats](https://github-readme-stats.vercel.app/api?username=lav-joshi)
- -->
-<!-- ![Lav's github stats]() -->
-</details>
-
-- 💬 Ask me about anything, I am happy to help
-- 📫 How to reach me: 2015uec1209@mnit.ac.in
-
-### Show some ❤️ by starring some of the repositories!
-
-<p align="center"> 
-  Visitor count<br>
-</p>
