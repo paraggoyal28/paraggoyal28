@@ -1,19 +1,19 @@
-## Hi 👋 there, I'm Lav Joshi
+## Hi 👋 there, I'm Parag Goyal
 
 <a href="https://www.linkedin.com/in/parag-kumar-goyal-2483bb118/">
-  <img align="left" alt="lav-joshi LinkedIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="parag-goyal LinkedIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.facebook.com/ParagKumargoyal/">
-  <img align="left" alt="lav-joshi Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  <img align="left" alt="parag-goyal Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <a href="https://www.instagram.com/sketches_leisure/">
-  <img align="left" alt="lav-joshi Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="parag-goyal Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://codeforces.com/profile/Parag12">
-  <img align="left" alt="lav-joshi Codeforces" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />
+  <img align="left" alt="parag-goyal Codeforces" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />
 </a>
 <a href="https://www.codechef.com/users/parag_12">
-  <img align="left" alt="lav-joshi Codeforces" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
+  <img align="left" alt="parag-goyal Codeforces" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
 </a>
 <br/>
 
