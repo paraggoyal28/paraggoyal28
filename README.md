@@ -1,4 +1,4 @@
-## Hi 👋 there, I'm Parag Goyal
+## Hi 👋 there, I'm Parag Kumar Goyal
 
 <a href="https://www.linkedin.com/in/parag-kumar-goyal-2483bb118/">
   <img align="left" alt="parag-goyal LinkedIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
