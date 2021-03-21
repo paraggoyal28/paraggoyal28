@@ -17,10 +17,10 @@
 </a>
 <br/>
 
-## Coding Enthusiastic and web developer!
+##Solve complex problems by discovering and learning things!
 
-- 💰 Want to work at google.
-- 🔭 I’m currently learning Java .
+- 💰 Want to work at big tech company. 
+- 🔭 I’m currently learning to code. 
 - 👯 Open for Collaboration.
 - 🥅 2020 Goals: Doing competitive coding & to develop some cool websites. 
 - ⚡ I enjoy watching movies and traveling 🏝️🗻.
