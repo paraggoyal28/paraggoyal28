@@ -17,7 +17,7 @@
 </a>
 <br/>
 
-##Solve complex problems by discovering and learning things!
+## Solve complex problems by discovering and learning things!
 
 - 💰 Want to work at big tech company. 
 - 🔭 I’m currently learning to code. 
