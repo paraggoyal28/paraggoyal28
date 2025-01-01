@@ -70,6 +70,17 @@ I am a passionate software engineer currently working as a SMTS at Oracle. My jo
   </a>
 </p>
 
+## 2025 Resolutions
+### Problem Solving
+Solving one question each on following platforms on a daily basis
+- Leetcode
+- GeeksForGeeks
+- Codeforces
+### Project
+- Getting started with Golang, Flutter, GraphQL with atleast one project involving each of the framework/library.
+- Improving existing knowledge of MongoDB, React, Java, Javascript with more than one project on each.
+### Open Source
+- Making at least 4 relevant contributions to the open github repositories.
 
 
 
@@ -87,3 +98,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
