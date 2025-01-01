@@ -81,7 +81,8 @@ Solving one question each on following platforms on a daily basis
 - Improving existing knowledge of MongoDB, React, Java, Javascript with more than one project on each.
 ### Open Source
 - Making at least 4 relevant contributions to the open github repositories.
-
+### Technical Writing
+- Making  technical writing for at least 1 book and other learning content
 
 
 <!--
