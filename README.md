@@ -63,7 +63,7 @@ I am a passionate software engineer currently working as a SMTS at Oracle. My jo
 </p>
 
 
-<h2 align="center">Github Streak 📺</h2>
+<h2 align="center">My Github Streak 📺</h2>
 <p align="center">
   <a href="https://github.com/paraggoyal28">  
     <img src="https://github-readme-streak-stats.herokuapp.com?user=paraggoyal28&theme=dark" width="700">
