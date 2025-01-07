@@ -28,6 +28,7 @@ I am a passionate software engineer currently working as a SMTS at Oracle. My jo
   <a href="#"><img alt="REST API" src="https://img.shields.io/badge/REST-000000?style=for-the-badge&logo=rest&logoColor=white"></a>
   <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></a>
   <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"></a>
+  <a href="#"><img alt="Graphql" src="https://img.shields.io/badge/graphql-01?style=for-the-badge&logo=graphql&logoColor=pink"></a>
 </p>
 
 ### 🗄️ Databases and cloud hosting
