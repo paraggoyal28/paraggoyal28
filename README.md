@@ -74,9 +74,10 @@ I am a passionate software engineer currently working as a SMTS at Oracle. My jo
 ## 2025 Resolutions
 ### Problem Solving
 Solving one question each on following platforms on a daily basis
-- Leetcode
+- Leetcode Target Rating - 1900
 - GeeksForGeeks
-- Codeforces
+- Codeforces Target Rating - 1400
+- CodeChef Target Rating - 1800
 ### Project
 - Getting started with Golang, Flutter, GraphQL with atleast one project involving each of the framework/library.
 - Improving existing knowledge of MongoDB, React, Java, Javascript with more than one project on each.
