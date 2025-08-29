@@ -86,6 +86,18 @@ Solving one question each on following platforms on a daily basis
 ### Technical Writing
 - Making  technical writing for at least 1 book and other learning content
 
+## 2025 Goal Reflection - Sep 2025 
+### Problem Solving
+ - LeetCode Rating Achieved - 1914
+ - GeeksForGeeks - 1816
+ - CodeForces - 1260
+ - CodeChef - 1604
+### Project
+- Developed a project whatsapp-clone (WhizChat). Tech Stack - Spring, Keycloak, Angular, Websocket.
+### Open Source
+- NA
+### Technical Writing
+- Technical writing in office projects
 
 <!--
 **paraggoyal28/paraggoyal28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
