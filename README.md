@@ -76,6 +76,7 @@ I am a passionate software engineer currently working as a SMTS at Oracle. My jo
 Solving one question each on following platforms on a daily basis
 - GeeksForGeeks  (Focus on one Problem Solving Platform)
 - Codeforces Target Rating - 1400 (Focus on one cp platform)
+- Cses Problem Set
 ### Project
 - Getting started with Golang, Flutter, GraphQL with atleast one project involving each of the framework/library.
 - Improving existing knowledge of MongoDB, React, Java, Javascript with more than one project on each.
