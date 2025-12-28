@@ -71,26 +71,7 @@ I am a passionate software engineer currently working as a SMTS at Oracle. My jo
   </a>
 </p>
 
-## 2025 Resolutions
-### Problem Solving
-Solving one question each on following platforms on a daily basis
-- GeeksForGeeks  (Focus on one Problem Solving Platform)
-- Codeforces Target Rating - 1400 (Focus on one cp platform)
-- Cses Problem Set
-### Project
-- Getting started with Golang, Flutter, GraphQL with atleast one project involving each of the framework/library.
-- Improving existing knowledge of MongoDB, React, Java, Javascript with more than one project on each.
-### Open Source
-- Making at least 4 relevant contributions to the open github repositories.
-### Technical Writing
-- Making  technical writing
-
 ## 2025 Goal Reflection - Sep 2025 
-### Problem Solving
- - LeetCode Rating Achieved - 1914
- - GeeksForGeeks - 1816
- - CodeForces - 1260
- - CodeChef - 1604
 ### Project
 - Developed a project whatsapp-clone (WhizChat). Tech Stack - Spring, Keycloak, Angular, Websocket.
 ### Open Source
@@ -100,11 +81,7 @@ Solving one question each on following platforms on a daily basis
 
 
 ## 2026 Resolutions
-Becoming a T shaped developer.
-### Problem Solving
-Solving one question each on following platforms on a daily basis
-- GeeksForGeeks  (Optional)
-- Cses Problem Set (Optional)
+Becoming a T shaped developer
 ### Project
 - Expanding existing knowledge of Java, Javascript. (Mandatory)
 - Starting with Go, Flutter (Optional)
