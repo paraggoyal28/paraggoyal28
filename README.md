@@ -82,8 +82,14 @@ I am a passionate software engineer currently working as a SMTS at Oracle. My jo
 
 ## 2026 Resolutions
 Becoming a T shaped developer
+### Learning
+- Expanding knowledge for java intermediate to advanced concepts
 ### Project
-- Expanding existing knowledge of Java, Javascript. (Mandatory)
+- Making a project not considering any tech stack
+  - Compiler (Nand To Tetris Part 2)
+  - OS (Nand To Tetris Part 2)
+  - Using AI 
+  **(Checking other github profiles for relevant project)
 - Starting with Go, Flutter (Optional)
 ### Open Source
 - Making at least 1 relevant contributions to the open github repositories. (Optional)
