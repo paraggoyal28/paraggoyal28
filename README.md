@@ -30,9 +30,12 @@ I am a passionate and curious software engineer who likes to deep dive into real
 ### 🗄️ Databases and cloud hosting
 
 * MySQL
+* PostgreSQL
+* Oracle ATP DB
+* ElasticSearch 
 * MongoDB
 
-### 🥅 Other
+### 🥅 Deployment Tools
 
 * Jenkins
 * Docker
