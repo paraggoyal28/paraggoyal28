@@ -98,6 +98,28 @@ Solving one question each on following platforms on a daily basis
 ### Technical Writing
 - Technical writing in office projects
 
+
+## 2026 Resolutions
+Becoming a T shaped developer.
+### Problem Solving
+Solving one question each on following platforms on a daily basis
+- GeeksForGeeks
+- Cses Problem Set
+### Project
+- Expanding existing knowledge of Java, Javascript.
+- Starting with Go, Flutter
+### Open Source
+- Making at least 1 relevant contributions to the open github repositories.
+### System Design
+- Enhance system design understanding including basics, then architectures for simple applications like Pastebin, TinyURL. Then with complex system architectures
+### Technical Writing
+- Reading a technical book 1/2 hour a day
+### Non-Technical
+- Reading some non-technical/fictional book 1/2 hour a day
+### Fitness
+- Walk daily for 20-30 minutes
+   
+
 <!--
 **paraggoyal28/paraggoyal28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
