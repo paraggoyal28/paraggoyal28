@@ -103,21 +103,21 @@ Solving one question each on following platforms on a daily basis
 Becoming a T shaped developer.
 ### Problem Solving
 Solving one question each on following platforms on a daily basis
-- GeeksForGeeks
-- Cses Problem Set
+- GeeksForGeeks  (Optional)
+- Cses Problem Set (Optional)
 ### Project
-- Expanding existing knowledge of Java, Javascript.
-- Starting with Go, Flutter
+- Expanding existing knowledge of Java, Javascript. (Mandatory)
+- Starting with Go, Flutter (Optional)
 ### Open Source
-- Making at least 1 relevant contributions to the open github repositories.
+- Making at least 1 relevant contributions to the open github repositories. (Optional)
 ### System Design
-- Enhance system design understanding including basics, then architectures for simple applications like Pastebin, TinyURL. Then with complex system architectures
+- Enhance system design understanding including basics, then architectures for simple applications like Pastebin, TinyURL (Mandatory). Then with complex system architectures (Optional)
 ### Technical Writing
-- Reading a technical book 1/2 hour a day
+- Reading a technical book 1/2 hour a day (Mandatory)
 ### Non-Technical
-- Reading some non-technical/fictional book 1/2 hour a day
+- Reading some non-technical/fictional book 1/2 hour a day (Optional)
 ### Fitness
-- Walk daily for 20-30 minutes
+- Walk daily for 20-30 minutes (Mandatory)
    
 
 <!--
