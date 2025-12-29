@@ -101,7 +101,8 @@ Becoming a T shaped developer
 - Making a project not considering any tech stack
   - Compiler (Nand To Tetris Part 2)
   - OS (Nand To Tetris Part 2)
-  - Using AI 
+  - Using AI
+  - Static Code Analyzer
 - Checking other github profiles for relevant project
 - Starting with Go, Flutter (Optional)
 ### Open Source
