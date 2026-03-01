@@ -110,11 +110,11 @@ Becoming a T shaped developer
 ### System Design
 - Enhance system design understanding including basics, then architectures for simple applications like Pastebin, TinyURL (Mandatory). Then with complex system architectures (Optional)
 ### Technical Writing
-- Reading a technical book 1/2 hour a day (Mandatory)
+- Reading a technical book (1 in a year)
 ### Non-Technical
-- Reading some non-technical/fictional book 1/2 hour a day (Optional)
+- Reading some non-technical/fictional book
 ### Fitness
-- Walk daily for 20-30 minutes (Mandatory)
+- Walk daily for 20-30 minutes
    
 
 <!--
