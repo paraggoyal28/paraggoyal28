@@ -94,7 +94,7 @@ Becoming a T shaped developer
 
 * *The Goal*: Avoid the trap of "17 open browser tabs." Use your T-shaped knowledge to filter out noise and focus on high-impact architectural challenges.
 
-### Increasing the tech stack
+### Increasing the tech stack (little)
  - Java
  - Javascript
  - React
@@ -102,12 +102,8 @@ Becoming a T shaped developer
   - Coding regularly
 ### System Design
 - Enhance system design understanding including basics, then architectures for simple applications like Pastebin, TinyURL (Mandatory). Then with complex system architectures (Optional)
-### Technical Writing
-- Reading a technical book (1 in a year)
 ### Non-Technical
-- Reading some non-technical/fictional book
-### Fitness
-- Walk daily for 20-30 minutes
+- Reading some non-technical/fictional boo
    
 
 <!--
