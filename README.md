@@ -17,7 +17,6 @@ I am a passionate and curious software engineer who likes to deep dive into real
 *  Java
 *  Python
 * Javascript
-* C++
 
 ### 🧰 Frameworks and libraries
 
@@ -95,18 +94,12 @@ Becoming a T shaped developer
 
 * *The Goal*: Avoid the trap of "17 open browser tabs." Use your T-shaped knowledge to filter out noise and focus on high-impact architectural challenges.
 
-### Learning
-- Expanding knowledge for java intermediate to advanced concepts
-### Project
-- Making a project not considering any tech stack
-  - Compiler (Nand To Tetris Part 2)
-  - OS (Nand To Tetris Part 2)
-  - Using AI
-  - Static Code Analyzer
-- Checking other github profiles for relevant project
-- Starting with Go, Flutter (Optional)
-### Open Source
-- Making at least 1 relevant contributions to the open github repositories. (Optional)
+### Increasing the tech stack
+ - Java
+ - Javascript
+ - React
+### Coding
+  - Coding regularly
 ### System Design
 - Enhance system design understanding including basics, then architectures for simple applications like Pastebin, TinyURL (Mandatory). Then with complex system architectures (Optional)
 ### Technical Writing
