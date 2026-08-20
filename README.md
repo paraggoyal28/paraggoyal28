@@ -65,46 +65,19 @@ I am a passionate and curious software engineer who likes to deep dive into real
 - Technical writing in office projects
 
 
-## 2026 Resolutions
-Becoming a T shaped developer
+## 2026 Goal Reflection - Aug 2026
+### Project
+NA
+### Coding Questions 
+around 228 GFG
 
-**1. Identify and Anchor Your "Vertical" (Depth)**
-
-* The Goal: Master one domain (e.g., React, Go, Security, or Site Reliability) so deeply that you can solve the toughest problems and mentor others. (TODO: pick one area)
-* *Google's Tip*: Deep expertise builds authority and credibility within the organization.
-
-**2. Cultivate Your "Horizontal" (Breadth)**
-
-* The Goal: Understand the "why" behind requests and how different components (APIs, CI/CD, UX, or Infrastructure) work together.
-* *Google's Tip*: Breadth protects you from tunnel vision. It helps you choose the right layer to solve a problem—for example, knowing when to solve a performance issue via caching (infrastructure) rather than refactoring code (logic).
-
-**3. Master "Influence Without Authority"**
-
-* Google emphasizes that senior T-shaped engineers must lead initiatives even when they aren't the manager.
-* The Goal: Use your broad knowledge to bridge gaps between teams (e.g., explaining technical trade-offs to Product Managers or UX designers).
-* *Google's Tip*: The fastest way to earn influence is through empathy for other roles' goals and using data/prototypes to back up your suggestions.
-
-**4. Practice "Strategic Communication"**
-
-* A key point in the Google guide is the shift from what you are building to how it aligns with the business.
-* Manage Up: Proactively share blockers and link your daily tasks to team-level priorities.
-* *Ask Better Questions*: Instead of just taking a ticket, ask questions to uncover the "why" and explore technical trade-offs early.
-
-**5. Manage Your Focus**
-
-* *The Goal*: Avoid the trap of "17 open browser tabs." Use your T-shaped knowledge to filter out noise and focus on high-impact architectural challenges.
-
-### Increasing the tech stack (little)
- - Java
- - Javascript
- - React
-### Coding
-  - Coding regularly
-### System Design
-- Enhance system design understanding including basics, then architectures for simple applications like Pastebin, TinyURL (Mandatory). Then with complex system architectures (Optional)
-### Non-Technical
-- Reading some non-technical/fictional boo
-   
+## Smart Goals
+* Need to complete the Java learning in next 2-3 months
+* Need to complete the javascript learning in next 2-3 months.
+* Need to complete basic DSA in next 2-3 months
+* Need to complete Effective Java in next 6 months
+* Need to complete System Design in next 6 months
+* Move to UI in office projects
 
 <!--
 **paraggoyal28/paraggoyal28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
