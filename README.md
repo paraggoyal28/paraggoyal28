@@ -56,42 +56,11 @@ I am a passionate and curious software engineer who likes to deep dive into real
   </a>
 </p>
 
-## 2025 Goal Reflection - Sep 2025 
-### Project
-- Developed a project whatsapp-clone (WhizChat). Tech Stack - Spring, Keycloak, Angular, Websocket.
-### Open Source
-- NA
-### Technical Writing
-- Technical writing in office projects
+# Career Reflection
 
-
-## 2026 Goal Reflection - Aug 2026
-### Project
-NA
-### Coding Questions 
-around 228 GFG
-
-## Smart Goals
-* Need to complete the Java learning in next 2-3 months
-* Need to complete the javascript learning in next 2-3 months.
-* Need to complete basic DSA in next 2-3 months
-* Need to complete Effective Java in next 6 months
-* Need to complete System Design in next 6 months
-* Move to UI in office projects
-
-<!--
-**paraggoyal28/paraggoyal28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+1. At Infosys, worked mostly on React, and Node. Worked on developing microservices, namely Notification, Product, Chat and adding middlewares for authentication.
+2. Developed a feature to create multiple products by parsing a excel file containing product information with images, for. eg a product information in specific columns like name, other specifications. The product was related to clothing, so the attributes were name, size, color, etc. These were provided in columns with a image for a product. My task was to parse that excel file and asynchronously generate the products with all the provided information and image. Previously without this feature, creating a product was done directly from the user interface and taking a lot of time. Due to the above implementation, a significant amount of products are created without impacting the user working on the interface, thus reducing lot of time for user to create his desired products.Used cronjob to trigger the creation of these products.
+3. At Amazon, worked on developing a FOD widget
+4. At Brane
 
 
