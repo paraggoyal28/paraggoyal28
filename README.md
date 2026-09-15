@@ -42,4 +42,12 @@
 8. NPS - nps-support_mb@oracle.com
 9. Generate letters - https://hrservices.oracle.com/apex/t?p=85500
 
+# Learning
+1. Space Repitition.
+2. Don't learn unnecessary things.
+
+
+# How to become successful in tech
+1. Deliver results, complete work before deadline.
+2. Take part in meetings. Ask important questions.
 
