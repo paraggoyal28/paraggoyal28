@@ -4,40 +4,6 @@
 [![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/parag__goyal/)
 [![Parag | Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:1997parag.goyal@gmail.com)
 
-I am a passionate and curious software engineer who likes to deep dive into real world problems currently working as a SMTS at Oracle. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community
-
-- 🌱 I’m currently learning everything related to coding and tech 📝
-- 👨‍💻 Goals: Contribute more to Open Source and build real-world applications 👨‍💻
-- ⚡ Off the screen: I love traveling to new places, doodling, reading books 🏞️ 
-
-## Languages and Tools ⚙️
-
-### 📋 Languages
- 
-*  Java
-*  Python
-* Javascript
-
-### 🧰 Frameworks and libraries
-
-* Spring Boot
-* React
-* Micronaut
-* Jest/Mocha (Testing)
-* Cypress (Testing)
-
-### 🗄️ Databases and cloud hosting
-
-* MySQL
-* PostgreSQL
-* Oracle ATP DB
-* ElasticSearch 
-* MongoDB
-
-### 🥅 Deployment Tools
-
-* Jenkins
-* Docker
 
 
 <h2 align="center">My GitHub Statistics 🔥</h2>
