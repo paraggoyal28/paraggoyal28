@@ -64,3 +64,16 @@ I am a passionate and curious software engineer who likes to deep dive into real
 4. At Brane
 
 
+# Oracle Info
+
+1. JAPAC Alumni Portal - oracle.com/apac/corporate/alumni-portal/
+2. hrhelp.custhelp.com/app/japac
+3. PF/NPS withdrawals - ochs-retirals_in@oracle.com, finserve-blr_in@oracle.com
+4. F&F payout & settlement - info@dayforce.com
+5. ID Card Return - gps-clearance_in@oracle.com
+6. Global IT Desk - +65 65012389
+7. VerifyFast - verifyfast.com/secure/employees.aspx
+8. NPS - nps-support_mb@oracle.com
+9. Generate letters - https://hrservices.oracle.com/apex/t?p=85500
+
+
