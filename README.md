@@ -42,6 +42,10 @@
 8. NPS - nps-support_mb@oracle.com
 9. Generate letters - https://hrservices.oracle.com/apex/t?p=85500
 
+# Fidelity Netbenefits
+https://nb.fidelity.com/static/mybenefits/netbenefitslogin/#/login?ccview=logout
+
+
 # Learning
 1. Space Repitition.
 2. Don't learn unnecessary things.
