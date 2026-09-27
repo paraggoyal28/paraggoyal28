@@ -25,10 +25,12 @@
 # Career Reflection
 
 1. At Infosys, worked mostly on React, and Node. Worked on developing microservices, namely Notification, Product, Chat and adding middlewares for authentication.
-2. Developed a feature to create multiple products by parsing a excel file containing product information with images, for. eg a product information in specific columns like name, other specifications. The product was related to clothing, so the attributes were name, size, color, etc. These were provided in columns with a image for a product. My task was to parse that excel file and asynchronously generate the products with all the provided information and image. Previously without this feature, creating a product was done directly from the user interface and taking a lot of time. Due to the above implementation, a significant amount of products are created without impacting the user working on the interface, thus reducing lot of time for user to create his desired products.Used cronjob to trigger the creation of these products.
-3. At Amazon, worked on developing a FOD widget
-4. At Brane
+2. At Amazon, worked on developing a FOD widget, problem with tech Spring Boot, Spring MVC.
+3. At Brane Enterprises, the scope was not that much.
+4. At Oracle, 
 
+Spring Resources
+https://topmate.io/techengineer/2297564
 
 # Oracle Info
 
