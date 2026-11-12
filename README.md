@@ -21,13 +21,7 @@
     <img src="https://github-readme-streak-stats.herokuapp.com?user=paraggoyal28&theme=dark" width="700">
   </a>
 </p>
-
-# Career Reflection
-
-1. At Infosys, worked mostly on React, and Node. Worked on developing microservices, namely Notification, Product, Chat and adding middlewares for authentication.
-2. At Amazon, worked on developing a FOD widget, problem with tech Spring Boot, Spring MVC.
-3. At Brane Enterprises, the scope was not that much.
-4. At Oracle, 
+ 
 
 Spring Resources
 https://topmate.io/techengineer/2297564
